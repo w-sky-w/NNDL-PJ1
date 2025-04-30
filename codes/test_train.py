@@ -30,10 +30,10 @@ with open('idx.pickle', 'wb') as f:
         pickle.dump(idx, f)
 train_imgs = train_imgs[idx]
 train_labs = train_labs[idx]
-valid_imgs = train_imgs[:200]
-valid_labs = train_labs[:200]
-train_imgs = train_imgs[200:1000]
-train_labs = train_labs[200:1000]
+valid_imgs = train_imgs[:10000]
+valid_labs = train_labs[:10000]
+train_imgs = train_imgs[10000:]
+train_labs = train_labs[10000:]
 
 # normalize from [0, 255] to [0, 1]
 train_imgs = train_imgs / train_imgs.max()

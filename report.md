@@ -1,6 +1,9 @@
 # MNIST手写数字识别项目报告
 
 **王海天 223070140113**
+代码仓库链接：[https://github.com/w-sky-w/NNDL-PJ1](https://github.com/w-sky-w/NNDL-PJ1)
+模型参数网盘链接:[https://pan.baidu.com/s/1Fmao5R8x3U3bzL2kAqSHXw?pwd=sbni](https://pan.baidu.com/s/1Fmao5R8x3U3bzL2kAqSHXw?pwd=sbni)
+数据集没有进行更改因此就不重复上传至网盘了
 
 ## 1. 项目简介
 
