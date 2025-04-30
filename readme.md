@@ -1,0 +1,5 @@
+本仓库为复旦大学2025年春季神经网络与机器学习PJ1的相关代码
+
+训练：在codes文件夹下运行python test_train.py,会自动将模型保存到best_models文件夹下。
+MLP测试：在codes文件夹下运行python test_model.py,并修改想测试的模型参数文件名，会自动加载best_models文件夹下对应进行测试。
+CNN测试：在codes文件夹下运行python test_cnn.py,并修改想测试的模型参数文件名，会自动加载best_models文件夹下对应进行测试。
